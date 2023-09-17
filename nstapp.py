@@ -11,10 +11,10 @@ from streamlit_webrtc import webrtc_streamer
 
 # Define a list of style images with raw string literals for file paths
 style_images = {
-    "Picasso Vibes": r"C:\Users\91934\Downloads\style.jpg",
-    "Van Gogh Dreams": r"C:\Users\91934\Downloads\style1.jpg",
-    "Monet's Garden": r"C:\Users\91934\Downloads\style2.jpg",
-    "Oil Painting": r"C:\Users\91934\Downloads\oilpainting.png",
+    "Picasso Vibes": r"style.jpg",
+    "Van Gogh Dreams": r"style1.jpg",
+    "Monet's Garden": r"style2.jpg",
+    "Oil Painting": r"oilpainting.png",
 }
 
 def load_image(image_file):
