@@ -1,5 +1,4 @@
 streamlit
 tensorflow
 tensorflow_hub
-cv2
 numpy
