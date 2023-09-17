@@ -5,7 +5,7 @@ import numpy as np
 import tensorflow_hub as hub
 import tensorflow as tf
 from PIL import Image
-import cv2
+
 import tempfile
 from streamlit_webrtc import webrtc_streamer
 
